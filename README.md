@@ -31,6 +31,7 @@ an verschiedenen Lösungsansätzen gleichzeitig geforscht wird.
 **Resourcen**
 
 [Das Video als Text](./video/script.md)<br />
+[Der GA](./python)
 
 **FAQ**
 

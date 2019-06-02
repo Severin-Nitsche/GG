@@ -33,6 +33,9 @@ an verschiedenen Lösungsansätzen gleichzeitig geforscht wird.
 *Was hat das Ganze mit den Auswirkungen von künstlicher Intelligenz auf unsere Gesellschaft zu tun?*<br />
 Wir sind der Meinung, dass eine Grundlage von technischem Wissen vorhanden sein muss, um kompetent über die Auswirkungen sowie Möglichkeiten von künstlicher Intelligenz reden zu können. Deshalb haben wir mit unserem Vortrag versucht eine gemeinsame Basis zu schaffen, von der weitere Konversationen, auf eine fachlich fundierte Weise, ausgehen können.
 
+*Warum verwendet NEAT kein vollständig verbundenes NN?*<br />
+Durch die graduelle Erhöhung der komplexität des neuronalen Netzwerk schafft es NEAT die gewichte nacheinander zu verbessern. Eine passende Analogie hierzu ist wohl die Modellierung einer Funktion in Mathe, also stell dir vor du sollst zehntausend von Variablen einer Funktion so verändern, damit am ende ein passendes Ergebnis erzielt wird. Das ist eine Menge Arbeit und du würdest wahrscheinlich nie zu einem gutem Ergebnis kommen, doch wenn dir eine Funktion mit zum Beispiel 2 Variablen gegeben wird und du die Aufgabe hast die Aufgabe so gut wie möglich zu modellieren um die nächsten Variablen zu bekommen sieht das ganze schon anders aus. Du würdest die gesuchte Funktion Schritt für Schritt entwickeln und ohne weitere Probleme modellieren können. Genau das selbe gillt jetzt für NEAT, wenn er anfängt die Aufgabe mit so wenig Variablen wie möglich zu lösen hat er wenn weitere dazu kommen wenigstens eine passende Basis, von der er ausgehen und komplexere Elemente einbinden kann.
+
 **Weiter Informationen und Quellen**
 
 Webseiten:<br />

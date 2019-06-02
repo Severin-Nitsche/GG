@@ -28,6 +28,10 @@ zuerst ähnlich wie in der Anfangs Zufällig Ablation dazu führt, dass der NE e
 Lösung sucht und als zweites dazu führt, dass die ganze Varietät genommen wird, da nicht mehr 
 an verschiedenen Lösungsansätzen gleichzeitig geforscht wird.
 
+**Resourcen**
+
+[Das Video als Text](GG/video/script.md)<br />
+
 **FAQ**
 
 *Was hat das Ganze mit den Auswirkungen von künstlicher Intelligenz auf unsere Gesellschaft zu tun?*<br />

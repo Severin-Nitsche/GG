@@ -30,7 +30,7 @@ an verschiedenen Lösungsansätzen gleichzeitig geforscht wird.
 
 **Resourcen**
 
-[Das Video als Text](GG/video/script.md)<br />
+[Das Video als Text](./video/script.md)<br />
 
 **FAQ**
 

@@ -28,6 +28,10 @@ zuerst ähnlich wie in der Anfangs Zufällig Ablation dazu führt, dass der NE e
 Lösung sucht und als zweites dazu führt, dass die ganze Varietät genommen wird, da nicht mehr 
 an verschiedenen Lösungsansätzen gleichzeitig geforscht wird.
 
+**FAQ**
+
+*Was hat das Ganze mit den Auswirkungen von künstlicher Intelligenz auf unsere Gesellschaft zu tun?*<br />
+Wir sind der Meinung, dass eine Grundlage von technischem Wissen vorhanden sein muss, um kompetent über die Auswirkungen sowie Möglichkeiten von künstlicher Intelligenz reden zu können. Deshalb haben wir mit unserem Vortrag versucht eine gemeinsame Basis zu schaffen, von der weitere Konversationen, auf eine fachlich fundierte Weise, ausgehen können.
 
 **Weiter Informationen und Quellen**
 
